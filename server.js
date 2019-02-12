@@ -22,4 +22,4 @@ app.use('/graphql', graphqlHTTP({
 // });
 
 app.listen(port)
-console.log(`Server running at localhost:${port}`)
+console.log(`Server running at http:://localhost:${port}`)
